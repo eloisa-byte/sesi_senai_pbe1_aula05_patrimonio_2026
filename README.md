@@ -44,35 +44,35 @@ Cada item possui:
 
 GET (Mostra todos os patrimonios cadastrados) "http://linklink:link"
 ---
-![get](fotos/get.png)
+![get](captura01.png)
 
 ### Listar um patrimonio pelo ID
 
 GET (Mostra o patrimonio com o ID informado) Exemplo: "http://linklink:link/id"
 ---
-![getwork](fotos/getwork.png)
+![getwork](captura02.png)
 
 ### Patrimonio não encontrado
 text
 GET (Mostra os patrimonios cadastrados, porém neste caso não há o patrimonio buscado)
 ---
-![getfail](fotos/getfail.png)
+![getfail](captura03.png)
 
 ### Cadastrar um patrimonio
 
 POST "http://linklink:link/id"
 ---
-![post](fotos/post.png)
+![post](captura04.png)
 
 ### Atualizar um patrimonio
 
 PUT "http://linklink:link/id"
 ---
-![put](fotos/put.png)
+![put](captura05.png)
 
 ### Excluir um patrimonio
 
 DELETE "http://linklink:link/id"
 ---
-![delete](fotos/delete.png)
+![delete](captura06.png)
 
